@@ -18,6 +18,7 @@ Ce readme contient une description anglaise (ici) et française [(ici)](./french
 - [II. Game overview](#overview)
 - [III. Language used](#language-used)
   - [1. Python](#Python)
+- [IV. Game folder](#Game-folder)
 
 # About this project
 
@@ -60,3 +61,10 @@ So, as I said, this game is the first one that i had to do so I had to modify th
 
 This project is made out of Python language and contains basic functions and imports since this is a beginner project.
 I hope that the code may help you, have fun with it !
+
+# Game folder 
+
+[old version](./games/warship_v1.py)
+Contains a lot of useless functions, no error management, 10x10 grid, no color
+[new version](./games/warship_v1.py)
+Way better, try it ! 😃

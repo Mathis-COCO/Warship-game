@@ -13,6 +13,7 @@ Ce readme contient une description anglaise [(ici)](../README.md) et française 
 - [II. Visuels du jeu](#Visuels-du-jeu)
 - [III. Langage utilisé](#Langage-utilisé)
   - [1. Python](#Python)
+- [IV. Dossier games](#Dossier-games)
 
 # A propos du projet
 
@@ -53,3 +54,10 @@ Comme je l'ai dis, ce jeu était mon premier projet en Python, j'ai donc du adap
 
 Ce projet est codé en python et contient des fonctions assez basiques et simples à comprendre car c'est un projet débutant.
 J'espère que mon code pourra vous aider, amusez-vous bien !
+
+# Dossier games
+
+[ancienne version](./games/warship_v1.py)
+Contient un tas de fonctions inutiles, pas de gestion d'erreur, une grille 10x10, pas de couleurs
+[nouvelle version](./games/warship_v1.py)
+Bien meilleure, essayez-la ! 😃
