@@ -43,11 +43,13 @@ So, as I said, this game is the first one that i had to do so I had to modify th
 
 ### Here are some screenshots of the game:
 ``Attacks announcement:``
+
 ![](./img/warship_1.png)
 
 ---
 
 ``Next round, the grid updated with the destroyed boats:``
+
 ![](./img/warship_2.png)
 
 # Language used
