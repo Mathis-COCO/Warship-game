@@ -1,9 +1,9 @@
-# Warship Game
+# Bataille Navale
 
 Bienvenue sur le dépot de ma bataille navale 👋
 Ce readme contient une description anglaise [(ici)](../README.md) et française (ici)
 
-# Summary 📄
+# Sommaire 📄
 
 - [Sommaire](#sommaire)
 - [I. A propos du projet](#A-propos-du-projet)

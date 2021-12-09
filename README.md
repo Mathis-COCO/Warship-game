@@ -6,6 +6,8 @@ This readme file contains a French and and English description.
 Bienvenue sur le dépot de ma bataille navale 👋
 Ce readme contient une description anglaise (ici) et française [(ici)](./french-readme/README.md)
 
+[(French version readme)](./french-readme/README.md)
+
 # Summary 📄
 
 - [Summary](#summary)
