@@ -40,12 +40,15 @@ Comme je l'ai dis, ce jeu était mon premier projet en Python, j'ai donc du adap
 # Visuels du jeu
 
 ### Voici quelques captures du jeu:
+
 ``Annoncement des attaques:``
+
 ![](../img/warship_1.png)
 
 ---
 
 ``Au tour suivant, nous pouvons voir les navires détruits:``
+
 ![](../img/warship_2.png)
 
 # Language used

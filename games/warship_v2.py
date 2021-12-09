@@ -130,7 +130,7 @@ for tour in range(nbtour):
     IA_attack = [randomcolonneIA, randomrangeeIA]
 
     if (player_attack in ia_boats_list):
-        print(Fore.GREEN+'\nTu a coulé un navire ennemi!\n\nBien joué matelot'+Fore.WHITE)
+        print(Fore.GREEN+'\nTu as coulé un navire ennemi!\n\nBien joué matelot'+Fore.WHITE)
         grille[devine_rangee][devine_colonne] = Fore.RED+"X"+Fore.WHITE
         dest_count += 1
         time.sleep(3)
