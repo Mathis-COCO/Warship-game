@@ -58,6 +58,9 @@ J'espère que mon code pourra vous aider, amusez-vous bien !
 # Dossier games
 
 [ancienne version](./games/warship_v1.py)
+
 Contient un tas de fonctions inutiles, pas de gestion d'erreur, une grille 10x10, pas de couleurs
+
 [nouvelle version](./games/warship_v1.py)
+
 Bien meilleure, essayez-la ! 😃
