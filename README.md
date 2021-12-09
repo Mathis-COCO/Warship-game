@@ -64,7 +64,10 @@ I hope that the code may help you, have fun with it !
 
 # Game folder 
 
-[old version](./games/warship_v1.py)
+[old version: ](./games/warship_v1.py)
+
 Contains a lot of useless functions, no error management, 10x10 grid, no color
-[new version](./games/warship_v1.py)
+
+[new version: ](./games/warship_v1.py)
+
 Way better, try it ! 😃
